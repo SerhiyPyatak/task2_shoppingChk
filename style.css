@@ -1,0 +1,23 @@
+body {
+    padding-top: 10%;
+}
+
+.sticker {
+    width: 400px;
+    border: 3px dashed #ffffff;
+    background: #cbfb04;
+    margin:auto;
+}
+
+.head-wrapper {
+    margin:auto;
+    text-align: center;
+}
+
+ul.shop-list {
+    list-style: none;
+}
+
+.head-wrapper h1 {
+    font-size: larger;
+}
